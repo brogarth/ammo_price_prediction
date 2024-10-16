@@ -1,6 +1,6 @@
 # Overview
 
-This is code I used to explore an ammunition price dataset as well as build a slew of supervised models to predict said prices using Facebook Prophet. A writeup describing the findings can be found [here](klott.xyz/ammo_model/article.html).
+This is code I used to explore an ammunition price dataset as well as build a slew of supervised models to predict said prices using Facebook Prophet. A writeup describing the findings can be found [here](https://klott.xyz/ammo_model/article.html).
 
 Usage is as follows:
 
